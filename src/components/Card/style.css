@@ -1,0 +1,20 @@
+.card{
+    background-color: #eee;
+    min-height: 100px;
+    width: 20%;
+    margin: 20px;
+    padding: 10px;
+    text-align: center;
+}
+
+.big{
+    height: 300px;
+}
+
+.small{
+    height: 100px;
+}
+
+.medium{
+    height: 200px;
+}
